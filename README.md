@@ -32,7 +32,7 @@ __Arguments__
 |--------|-----------|----|--------|
 |algorithm|A constant specifying the hashing algorithm (see [Constants](#constants)).|_Constant_|__Y__|
 |data|The input string.|_String_|__Y__|
-|raw|whether the output should be a direct binary equivalent of the message digest. If `false` (default), the result is formatted as a hexadecimal string.|_Boolean_|__N__|
+|raw|Set to `true` for binary output, or `false` for hexadecimal string (default).|_Boolean_|__N__|
 
 __Example__
 
@@ -57,7 +57,7 @@ __Arguments__
 |algorithm|A constant specifying the hashing algorithm (see [Constants](#constants)).|_Constant_|__Y__|
 |data|The input string.|_String_|__Y__|
 |key|String to use as the seed for the HMAC generation.|_String_|__Y__|
-|raw|whether the output should be a direct binary equivalent of the message digest. If `false` (default), the result is formatted as a hexadecimal string.|_Boolean_|__N__|
+|raw|Set to `true` for binary output, or `false` for hexadecimal string (default).|_Boolean_|__N__|
 
 __Example__
 
