@@ -2,7 +2,7 @@
 
 __Corona HTML5 Crypto Plugin similar to standard crypto lib. Includes encryption methods.__
 
-<small>Does not support the <strong>md4</strong> digest.</small>
+_Does not support the __md4__ digest._
 
 👷 Built with __[Corona HTML5 Node Kit](https://develephant.github.io/corona-html5-node-kit-docs/)__.
 
