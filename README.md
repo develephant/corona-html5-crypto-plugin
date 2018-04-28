@@ -1,6 +1,6 @@
 # Corona HTML5 Crypto Plugin
 
-__Corona HTML5 Crypto Plugin similar to standard crypto lib. Includes encryption methods.__
+___Corona HTML5 Crypto Plugin similar to standard crypto lib. Includes additional encryption methods.___
 
 👷 Built with __[Corona HTML5 Node Kit](https://develephant.github.io/corona-html5-node-kit-docs/)__.
 
