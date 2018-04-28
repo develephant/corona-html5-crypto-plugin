@@ -128,7 +128,7 @@ print( decrypted )   --> Corona HTML5 Rocks!
 
 _Does not support __md4__._
 
-### Encryption
+### Encrypt/Decrypt
 
   - `crypto.aes` (default)
   - `crypto.des` (triple DES)
