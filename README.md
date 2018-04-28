@@ -2,8 +2,6 @@
 
 __Corona HTML5 Crypto Plugin similar to standard crypto lib. Includes encryption methods.__
 
-_Does not support the __md4__ digest._
-
 👷 Built with __[Corona HTML5 Node Kit](https://develephant.github.io/corona-html5-node-kit-docs/)__.
 
 ## Install
@@ -127,6 +125,8 @@ print( decrypted )   --> Corona HTML5 Rocks!
   - `crypto.sha256`
   - `crypto.sha384`
   - `crypto.sha512`
+
+_Does not support __md4__._
 
 ### Encryption
 
